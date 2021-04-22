@@ -1,2 +1,3 @@
 # Java
-Alguns trabalhos da faculdade escritos em java.
+
+Exercícios e trabalhos realizados durante a graduação.
